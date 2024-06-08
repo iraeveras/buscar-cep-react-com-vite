@@ -1,4 +1,5 @@
-import { FiSearch } from "react-icons/fi"
+import { FiSearch } from "react-icons/fi";
+import "./App.css";
 function App() {
 
   return (
