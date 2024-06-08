@@ -49,8 +49,10 @@ function App() {
           
           <h2>CEP: {cep.cep}</h2>
           <span>{cep.logradouro}</span>
-          <span>{cep.complemento === "" ? "Sem comlpemento" : `Complemento: ${cep.complemento}`}</span>
+          <span>{cep.complemento === "" ? "Sem complemento" : `Complemento: ${cep.complemento}`}</span>
           <span>{cep.bairro}</span>
+          <span> Nº Ibge: {cep.ibge}</span>
+          <span>DDD: {cep.ddd}</span>
           <span>{cep.localidade} - {cep.uf}</span>
         </main>
       )}
