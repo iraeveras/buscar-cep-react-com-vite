@@ -9,4 +9,36 @@
 .container h1 {
     text-transform: uppercase;
     font-size: 80px;
+    text-align: center;
+}
+
+@media screen and (max-width: 830px){
+    .container h1 {
+        font-size: 70px;
+    }
+}
+
+@media screen and (max-width: 700px){
+    .container h1 {
+        font-size: 50px;
+    }
+}
+
+@media screen and (max-width: 500px){
+    .container h1 {
+        font-size: 31px;
+        padding: 0 10px;
+    }
+}
+
+@media screen and (max-width: 330px){
+    .container h1 {
+        font-size: 27px;
+    }
+}
+
+@media screen and (max-width: 283px){
+    .container h1 {
+        font-size: 20px;
+    }
 }
