@@ -19,12 +19,16 @@ biblioteca (javascript, typescript...)
 
 depois dentro do diretório do projeto foi instalado os pacotes de dependencias.
 
-## Bibliotecas instaladas
+## Bibliotecas de dependencias instaladas
 ````
 npm install react-icons
 ````
 ````
 npm install axios
+````
+
+````
+npm install gh-pages --save-dev
 ````
 
 ## Start do projeto
