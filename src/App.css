@@ -75,6 +75,7 @@
 .main span {
     margin-bottom: 16px;
     font-weight: bold;
+    text-align: center;
 }
 
 @media screen and (max-width: 830px){
@@ -97,6 +98,7 @@
 
     .main h2 {
         font-size: 28px;
+        text-align: center;
     }
 }
 
@@ -108,6 +110,9 @@
 }
 
 @media screen and (max-width: 330px){
+    .main {
+        padding: 8px;
+    }
     .container .title {
         font-size: 27px;
     }
