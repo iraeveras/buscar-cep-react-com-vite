@@ -19,6 +19,14 @@ biblioteca (javascript, typescript...)
 
 depois dentro do diretório do projeto foi instalado os pacotes de dependencias.
 
+## Bibliotecas instaladas
+````
+npm install react-icons
+````
+````
+npm install axios
+````
+
 '''
 npm install
 '''
